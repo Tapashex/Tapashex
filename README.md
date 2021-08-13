@@ -2,7 +2,7 @@
 - 👀 I’m interested in SAP MM...
 - 🌱 I’m currently learning ...SAP MM
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...8777676361
+- 📫 How to reach me ..
 
 <!---
 Tapashex/Tapashex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
